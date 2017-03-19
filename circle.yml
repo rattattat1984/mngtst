@@ -4,4 +4,4 @@ machine:
 
 test:
   override:
-    - docker run -d kenjiszk/minergate-cli minergate-cli -user kenji.suzuki.1984@gmail.com -xmr
+    - docker run -d kenjiszk/minergate-cli run
