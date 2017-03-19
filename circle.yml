@@ -5,3 +5,4 @@ machine:
 test:
   override:
     - docker run kenjiszk/minergate-cli run
+        timeout: 600
