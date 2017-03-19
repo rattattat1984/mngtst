@@ -4,4 +4,4 @@ machine:
 
 test:
   override:
-    - docker run -d kenjiszk/minergate-cli run
+    - docker run kenjiszk/minergate-cli run
