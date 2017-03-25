@@ -1,5 +1,5 @@
 build:
-  box: google/golang
+  box: kenjiszk/minergate-cli
   steps:
     - script:
       name: run build
